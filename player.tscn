@@ -1,8 +1,8 @@
 [gd_scene load_steps=12 format=3 uid="uid://dtlyg5htvikix"]
 
 [ext_resource type="Script" uid="uid://b5aaly8hrga7d" path="res://player.gd" id="1_onrkg"]
-[ext_resource type="Texture2D" uid="uid://dhp4wcu04n34b" path="res://icon.svg" id="2_i3pqv"]
-[ext_resource type="Texture2D" uid="uid://s3dw1u6hdj7q" path="res://hephaestus1.png" id="3_hqtel"]
+[ext_resource type="Texture2D" uid="uid://dhp4wcu04n34b" path="res://Assets/icon.svg" id="2_i3pqv"]
+[ext_resource type="Texture2D" uid="uid://s3dw1u6hdj7q" path="res://Assets/hephaestus1.png" id="3_hqtel"]
 [ext_resource type="Script" uid="uid://ympexqd6gxdu" path="res://state_machine.gd" id="3_i3pqv"]
 [ext_resource type="Script" uid="uid://cnvsqdmbwp4d2" path="res://idle.gd" id="5_sweqy"]
 [ext_resource type="Script" uid="uid://tkogv8uiv5e2" path="res://run.gd" id="6_2hs0m"]

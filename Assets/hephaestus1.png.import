@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://s3dw1u6hdj7q"
-path="res://.godot/imported/hephaestus1.png-1434b8176926e5e96606d102511cee00.ctex"
+path="res://.godot/imported/hephaestus1.png-47b2e2e7dead175ee7ce7698273b1eae.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://hephaestus1.png"
-dest_files=["res://.godot/imported/hephaestus1.png-1434b8176926e5e96606d102511cee00.ctex"]
+source_file="res://Assets/hephaestus1.png"
+dest_files=["res://.godot/imported/hephaestus1.png-47b2e2e7dead175ee7ce7698273b1eae.ctex"]
 
 [params]
 
